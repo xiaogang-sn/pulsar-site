@@ -17,7 +17,7 @@
 # under the License.
 #
 
-name: CI - Pulsar Website-Next build
+name: CI - Debug
 on:
   push:
     branches: [ci-debug]
@@ -25,9 +25,8 @@ on:
 jobs:
   build-website:
     if: ${{ github.repository == 'apache/pulsar-site' }}
-    name: Build and publish pulsar website-next
+    name: CI Debug
     runs-on: ubuntu-latest
-    timeout-minutes: 360
     steps:
       - name: Echo date
         run: |
