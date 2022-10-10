@@ -7,4 +7,3 @@ endpoints:
      - path: /
        service: web
        port: 3000
-# comment again
