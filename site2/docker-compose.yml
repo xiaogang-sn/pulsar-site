@@ -2,9 +2,4 @@ services:
   web:
     build: website-next
     ports:
-      - 3000:3000
-endpoints:
-     - path: /
-       service: web
-       port: 3000
-# 
+      - 80:3000
