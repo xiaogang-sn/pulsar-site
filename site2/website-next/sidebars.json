@@ -6,7 +6,7 @@
     },
     {
       "type": "category",
-      "label": "Get Started",
+      "label": "Get Started Here",
       "link": {
         "type": "doc",
         "id": "getting-started-home"
