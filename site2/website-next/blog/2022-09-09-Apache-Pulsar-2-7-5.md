@@ -1,5 +1,5 @@
 ---
-title: "What’s New in Apache Pulsar 2.7.5"
+title: "What’s New in Apache Pulsar 2.7.5 for review"
 date: 2022-09-09
 author: "Jason918, momo-jun"
 ---
