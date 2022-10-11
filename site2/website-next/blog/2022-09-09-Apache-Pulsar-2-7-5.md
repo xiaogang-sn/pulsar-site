@@ -1,10 +1,10 @@
 ---
-title: "What’s New in Apache Pulsar 2.7.5"
+title: "What’s New in Apache Pulsar 2.7.5 for review"
 date: 2022-09-09
 author: "Jason918, momo-jun"
 ---
 
-The Apache Pulsar community releases version 2.7.5! 23 contributors provided improvements and bug fixes that delivered 89 commits. Thanks for all your contributions.
+The Apache Pulsar community releases version 2.7.5 for review! 23 contributors provided improvements and bug fixes that delivered 89 commits. Thanks for all your contributions.
 
 The highlight of the 2.7.5 release is that it fixes some critical bugs on broker, proxy, and storage, including message/data loss, broker deadlock, and connection leak. Note that 2.7.5 is the last release of 2.7.x.
 
